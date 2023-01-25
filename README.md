@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Create and Run a React app and JSX Basics
 
 To start a React project, you can simply run:
 
